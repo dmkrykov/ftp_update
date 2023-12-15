@@ -5,8 +5,8 @@ from config import Config
 
 
 class TgBot:
-    API_TOKEN = '6038325181:AAF5uv35UoWTq8xDQeBAJ2DmTWm9nIBu-hE'
-    CHAT_ID = '-1001704540341'  # -1001704540341 KDL Integration Chat  testChannel 1001508743748
+    API_TOKEN = '6038325181:BBF5uv35UoWTq8xDQeBAJ2DmTWm9nIBu-hE'
+    CHAT_ID = '-1001704540342'  # -1001704540342 Integration Chat  testChannel 1001508743742
     bot = None
 
     def __init__(self, cfg: Config):
